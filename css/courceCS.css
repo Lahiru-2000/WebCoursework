@@ -11,37 +11,42 @@ ul.li1 li{
     
 }
 ul.li1{
-    padding-top: 12px;
+    margin-top: 25px;
 }
 ul.li1 li{
     padding-right: 30px;
     font-weight: 500;
     font-size: 18px;
-    color: rgb(188, 225, 196);
+    color: rgb(255, 255, 255);
     
 }
 .navIMG{
-    height: 50px;
-    width: 50px;
-    
+    height: 68px;
+    width: 68px;
+    margin-top: 6.5px;
     border-radius: 50% 50% 50% 50%;
+    margin-left: 30px;
 }
 .navi{
-    width: 100%;
+    width: 100.8%;
     height: 80px;
-    background-color: rgb(0, 128, 53);
+    background-color:  #0072b4;
+    margin-right: 1%;
+
     
 }
 .hom1{
     text-decoration: none;
-    color: rgb(188, 225, 196);
+    color: rgb(255, 255, 255);
+    
+}
 
-}
 a:hover{
-    color: rgb(138, 166, 248);
-    /* text-decoration: underline;
-    background-color: black; */
+    color: rgb(0, 0, 0);
+    
 }
+
+
 
 .homeIMG{
     width: 100%;
@@ -56,7 +61,7 @@ a:hover{
 .homeTT{
     margin-top: -30%;
     font-size: 90px;
-    color: rgb(5, 80, 5);
+    color: rgb(0, 47, 82);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
     justify-items: center;
@@ -65,7 +70,7 @@ a:hover{
 }
 .under11{
     font-size: 20px;
-    color: rgb(5, 80, 5);
+    color: #003a5c;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
     justify-items: center;
@@ -73,11 +78,11 @@ a:hover{
 }
 .sdg1{
     width: 100%;
-    margin-top: 13.33%;
+    margin-top: 12.44%;
     font-size: 30px;
     /* margin-top: 16%; */
     /* color: rgb(55, 184, 55); */
-    color: rgb(171, 234, 171);
+    color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 12px 12px 12px 12px;
     margin-left: 12px;
@@ -94,9 +99,9 @@ a:hover{
 
     .read1{
         padding: 5px 15px 10px 20px;
-        background-color: green;
+        background-color:#054d77;
         border-radius: 7px;
-        color: rgb(188, 225, 196);
+        color: rgb(255, 255, 255);
         text-decoration: none;
     }
  
@@ -126,7 +131,7 @@ a:hover{
     }
 
 .footer{
-    background-color: rgb(56, 181, 10);
+    background-color: #0072b4;
     margin-left: 0.1px;
     height: 400px;
     width: 100%;
@@ -142,8 +147,9 @@ ul.lis2 li{
 
 .homeabout1{
     text-decoration: none;
-    padding: 5px 5px 5px 5px;
-    background-color: rgb(104, 91, 248);
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 10px 30px 10px 30px;
+    background-color: #0072b4;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
 }
